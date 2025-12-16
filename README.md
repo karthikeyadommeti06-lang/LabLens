@@ -13,10 +13,8 @@ LabLens is an AI-powered inventory assistant designed for electronics labs. It u
 * **Secure Dashboard:** Features a login system and a real-time metrics dashboard.
 
 ## 🛠️ Installation & Run
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/YOUR_USERNAME/LabLens.git](https://github.com/YOUR_USERNAME/LabLens.git)
-    ```
+1.  **Download the repository:**
+    
 2.  **Install dependencies:**
     ```bash
     pip install streamlit google-generativeai pandas pillow
@@ -33,4 +31,5 @@ LabLens is an AI-powered inventory assistant designed for electronics labs. It u
 4.  The app updates the Pandas DataFrame and refreshes the dashboard metrics.
 
 ---
+
 *Submitted for the GenAI Frontiers Hackathon.*
